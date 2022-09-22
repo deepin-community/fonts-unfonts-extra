@@ -1,0 +1,2 @@
+*.ttf usr/share/fonts/truetype/unfonts-extra/
+debian/90-fonts-unfonts-extra.conf usr/share/fontconfig/conf.avail/
